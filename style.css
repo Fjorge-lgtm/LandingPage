@@ -1,0 +1,144 @@
+
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color:#1f374d;
+    padding: 20px;
+    text-align: center;
+    color: #dce4eb;
+}
+
+section {
+    padding: 30px;
+}
+
+.cards {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+
+.card {
+    width: 300px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    padding: 20px;
+    transition: background-color 0.3s ease;
+}
+
+.card:hover {
+    background-color: #8db2d4;
+}
+
+.card img {
+    width: 100%;
+    height: 350px;
+    object-fit: cover;
+    border-radius: 10px 10px 0 0;
+    margin-bottom: 10px;
+}
+
+.card h2 {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.card p {
+    line-height: 1.6;
+}
+
+.texto {
+    text-align: center;
+}
+
+footer {
+    background-color:#1f374d;
+    padding: 20px;
+    text-align: center;
+    color: #dce4eb;
+}
+
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.contato {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+}
+
+.campo {
+    margin-bottom: 15px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+input, textarea {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+.redes-sociais {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.redes-sociais a {
+    display: inline-block;
+    margin: 0 5px;
+}
+
+.redes-sociais img {
+    width: 30px;
+    height: 30px;
+}
+**JavaScript (script.js):**
+
+```javascript
+// Não há necessidade de JavaScript para este exemplo básico.
+
+// Funcionalidades adicionais podem ser implementadas com JavaScript, como:
+
+* Abrir um modal com mais informações ao clicar em um card
+* Enviar um formulário de contato
+* Acompanhar as interações do usuário com os cards
+```
+
+**Observações:**
+
+* Substitua as imagens ("imagem1.jpg", "imagem2.jpg", "imagem3.jpg") pelas suas próprias imagens.
+* Altere as cores, fontes e outros estilos CSS de acordo com o seu design desejado.
+* Você pode adicionar mais cards, se necessário.
+* O JavaScript não é essencial para este exemplo básico, mas pode ser usado para adicionar funcionalidades extras.
+
+**Recursos Adicionais:**
+
+* Aprenda A Criar Uma Landing Page Com Html, Css E Javascript - Awari: [URL inválido removido]
+* [CRIANDO DO
